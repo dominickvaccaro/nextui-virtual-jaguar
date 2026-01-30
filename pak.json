@@ -1,15 +1,17 @@
 {
   "name": "JAGUAR",
-  "version": "v1.0.0",
+  "version": "v1.1.0",
   "type": "EMU",
   "description": "An Atari Jaguar addon for minarch, utilizing the Virtual Jaguar core.",
   "author": "Dominick Vaccaro",
   "repo_url": "https://github.com/dominickvaccaro/nextui-virtual-jaguar",
   "release_filename": "JAGUAR.pak.zip",
   "changelog": {
-    "v1.0.0": "Initial Release."
+    "v1.0.0": "Initial Release.",
+    "v1.1.0": "Added TrimUI Smart Pro S support."
   },
   "platforms": [
-    "tg5040"
+    "tg5040",
+    "tg5050"
   ]
 }
